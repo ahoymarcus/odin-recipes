@@ -3,7 +3,7 @@
 
 <br />
 
-This is the first project from The Odin Project to create a Recipes Webpage.
+This is the first project from The Odin Project to create a Recipes Webpage. The recipes are from the site [AllRecipes](https://www.allrecipes.com/).
 
 <br />
 
