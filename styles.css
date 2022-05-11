@@ -1,0 +1,19 @@
+body { 
+    font-family: Helvetica, Sans-serif; 
+    background-color: #F7E2DB;
+    color: #7d6969; /*#716c6c; #7d6969*/
+}
+
+h1, h2, h3 {
+    text-shadow: 1px 1px #78ac5b;
+}
+
+p {
+    color: black;
+}
+
+
+li {
+    color: #5e2121;
+}
+
