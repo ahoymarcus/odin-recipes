@@ -1,4 +1,4 @@
-# Odin Recipes Webpage - HTML
+# Odin Recipes Webpage
  
 
 <br />
@@ -8,14 +8,15 @@ This is the first project from The Odin Project to create a Recipes Webpage. The
 <br />
 
 
-- [my online app]()
+- [my online webpage](https://ahoymarcus.github.io/odin-recipes/)
 
 
 <br />
 
 Dependências:
 
-- None
+- HTML
+- CSS
 
 
 
