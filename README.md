@@ -17,31 +17,32 @@ Dependências:
 
 - HTML
 - CSS
+- CSS Design Pattern
 
 
 
 <br />
 
 
-### Imagem da Home page do :
+### Imagem da Home page do Projeto:
 
-![Imagem da Home Page do Blog App]()
-
-
-<br />
-
-
-### Imagem da :
-
-![Imagem da rota com a lista dos artigos para React-JS]()
+![Imagem da Home Page do Projeto](/images/odin-recipes-homepage.png)
 
 
 <br />
 
 
-### Imagem da :
+### Imagem da seção superior de uma página de receitas:
 
-![Imagem da página de uma cidade para o Weather App]()
+![Imagem da seção superior de uma página de receitas](/images/odin-recipes-brownies-page-01.png)
+
+
+<br />
+
+
+### Imagem da seção principal de uma página de receitas:
+
+![Imagem da seção principal de uma página de receitas](/images/odin-recipes-brownies-page-02.png)
 
 
 
