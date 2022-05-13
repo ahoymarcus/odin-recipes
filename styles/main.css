@@ -114,6 +114,10 @@ a {
     max-height: 550px;
 }
 
+.page-section {
+    padding: 20px;
+}
+
 .page-section__title {
     font-size: 1.82rem;
     margin: 40px 20px 10px;
@@ -121,4 +125,27 @@ a {
     text-shadow: 1px 1px #78ac5b;
 }
 
+.page-section__paragraph {
+    text-align: center;
+    width: 94%;
+    max-width: 1150px;
+    margin: 35px auto 20px;
+    line-height: 1.6rem;
+}
+
+.page-section__unordered-list {
+    padding: 0 35px;
+    margin: 0 5px;
+    line-height: 1.6rem;
+}
+
+.page-section__ordered-list {
+    padding: 0 35px;
+    margin: 0 35px 0 25px;
+    line-height: 1.6rem;
+}
+
+.page-section__ordered-list p {
+    margin-bottom: 20px;
+}
 
