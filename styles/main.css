@@ -55,14 +55,9 @@ body {
     color: #7d6969; /*#716c6c; #7d6969*/
 }
 
-h1, h2, h3 {
-    text-shadow: 1px 1px #78ac5b;
-}
-
 p {
     color: black;
 }
-
 
 li {
     color: #5e2121;
@@ -76,10 +71,38 @@ a {
     text-decoration: none;
 }
 
-h1, h2 {
-    text-align: center;
+
+.header {
+    background-color: #EEA388;
 }
 
+.header__link {
+    color: white;
+    display: inline-block;
+    padding: 10px 15px;
+}
+
+.header__title {
+    font-size: 3rem;
+    text-align: center;
+    padding: 15px 0 30px;
+    
+    text-shadow: 1.5px 1.5px #e66363;
+}
+
+.subtitle__text {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 20px;
+    
+    text-shadow: 1px 1px #78ac5b;
+}
+
+.subtitle__divisor {
+    height: 1.5px;
+    background: silver;
+    margin: 25px 140px 50px;
+}
 
 .hero {
     display: flex;
@@ -88,6 +111,14 @@ h1, h2 {
 
 .hero__image {
     width: 100%;
+    max-height: 550px;
+}
+
+.page-section__title {
+    font-size: 1.82rem;
+    margin: 40px 20px 10px;
+    
+    text-shadow: 1px 1px #78ac5b;
 }
 
 
